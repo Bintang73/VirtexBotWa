@@ -10,6 +10,20 @@ Virtex BOT Whatsapp Ganas 2021
 > cd VirtexBotWa
 > npm install
 ```
+
+### FOR WINDOWS/VPS/RDP USER
+```bash
+> download node js and install
+> download git and install
+> git clone https://github.com/Bintang73/VirtexBotWa
+> cd VirtexBotWa
+> npm install
+```
+
+### FILE FOR WINDOWS/VPS/RDP USER
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
+
 ###### Run
 ```bash
 > node index.js
