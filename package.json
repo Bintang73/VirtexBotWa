@@ -1,0 +1,32 @@
+{
+  "name": "virtexwa",
+  "version": "1.6.9",
+  "description": "Virtex bot whatsapp created by @bintang_nur_pradana",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bintang73/VirtexBotWa.git"
+  },
+  "keywords": [
+    "virtex",
+    "ganas"
+  ],
+  "author": "st4rz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bintang73/VirtexBotWa/issues"
+  },
+  "homepage": "https://github.com/Bintang73/VirtexBotWa#readme"
+}
