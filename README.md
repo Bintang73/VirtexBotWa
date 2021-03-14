@@ -6,7 +6,7 @@ Virtex BOT Whatsapp Ganas 2021
 > pkg update && pkg upgrade
 > pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/Bintang73/VirtexBotW
+> git clone https://github.com/Bintang73/VirtexBotWa
 > cd VirtexBotWa
 > npm install
 ```
